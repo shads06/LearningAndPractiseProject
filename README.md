@@ -7,3 +7,4 @@ This project is container for learning all libraries, concepts, technologies.
 
 ## List of Applications
 - Learning_Net.Code.ADONet
+- Learning ChartJS in JavaScript
