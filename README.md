@@ -7,4 +7,9 @@ This project is container for learning all libraries, concepts, technologies.
 
 ## List of Applications
 - Learning_Net.Code.ADONet
-- Learning ChartJS in JavaScript
+- Learning_ChartJS
+	- JavaScript
+- Maui
+	- MauiApp1
+- HttpHandler
+	- Learning_HTTPHandler
